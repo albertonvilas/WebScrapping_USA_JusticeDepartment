@@ -19,7 +19,7 @@ All files from US Justice and Archive that contain "China" and one of these keyw
 - scrape_by_keywords.py (step 1)
 - scrap_text_website_after2009.ipynb (step 3/4) - us justice website
 - scrap_text_archive.ipynb (step 3/4) - archive website 
-
+- classification_by_year.py (step 6)
 
 Process extraction by steps:
 
@@ -33,7 +33,7 @@ Process extraction by steps:
 
 If date/text can't be extracted in step 3, download all page to pdf file and:
 
-5 - Convert pdf to text 
+5 - Read pdf into text 
 
 6 - Search with regex for the first appearance of year "re.compile('|'.join('years'))" - years is a list of all years from 1994 to 2020
 

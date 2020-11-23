@@ -16,9 +16,12 @@ All files from US Justice and Archive that contain "China" and one of these keyw
 
 
 - Data inside folder "data"
+- scrape_by_keywords.py (step 1)
+- scrap_text_website_after2009.ipynb (step 3/4) - us justice website
+- scrap_text_archive.ipynb (step 3/4) - archive website 
 
 
-Process extraction:
+Process extraction by steps:
 
 1 - Scrap title + link (which contains keywords)
 2 - Search one by one with the link previosly scrapped

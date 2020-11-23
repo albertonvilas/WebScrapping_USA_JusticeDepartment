@@ -23,7 +23,7 @@ All files from US Justice and Archive that contain "China" and one of these keyw
 
 Process extraction by steps:
 
-1 - Scrap title + link (which contains keywords)
+1 - Scrap title + link (which contains keywords) \n
 2 - Search one by one with the link previosly scrapped
 3 - Extract text and date from webpage
 4 - Create pdf and insert in correct year named folder

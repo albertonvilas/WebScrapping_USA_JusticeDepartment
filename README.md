@@ -3,6 +3,9 @@
 
 All files from US Justice and Archive that contain "China" and one of these keywords:
 
+US Justice: https://www.justice.gov/news
+Archive: https://www.justice.gov/archives/doj-archive (this have connections to local websites(ex: Arizona Justice; California Justice) with the files) -> more than 50 differents layouts
+
 "intellectual property theft"
 "trade secrets"
 "patent infrigement"
